@@ -25,3 +25,13 @@ I derived insights related to population distribution, sex ratio, education leve
 - Question 5. Find out the previous year population state-wise.
 - Question 6. How many person on per kilometer in previous year and the current year?
 - Question 7. Find the top 3 districts of each state that have the highest literacy rate.
+
+## Solutions 
+To find the solutions, I wrote these queries . Kindly read that
+
+-<a href="https://github.com/AsheeshSinghrajput/Indian-Census-2021-DA-SQL/blob/main/Dataset1.csv">SQL-Database1</a>
+
+-<a href="https://github.com/AsheeshSinghrajput/Indian-Census-2021-DA-SQL/blob/main/Dataset2.csv">SQL-Database2</a>
+
+-<a href="https://github.com/AsheeshSinghrajput/Indian-Census-2021-DA-SQL/blob/main/Indian%20census%20part%20-1%20%262%20ashu.sql">SQL-Code</a>
+
