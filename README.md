@@ -35,3 +35,8 @@ To find the solutions, I wrote these queries . Kindly read that
 
 -<a href="https://github.com/AsheeshSinghrajput/Indian-Census-2021-DA-SQL/blob/main/Indian%20census%20part%20-1%20%262%20ashu.sql">SQL-Code</a>
 
+## Work's Sample 
+
+<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/9df73980-749f-49c0-813c-f23c98da4e0b" />
+
+
